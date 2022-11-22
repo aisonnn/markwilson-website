@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background: rgb(9,50,121);
+    background: linear-gradient(101deg, rgba(9,50,121,1) 0%, rgba(77,9,123,1) 75%);
+}
 .container{
     display:flex;
     justify-content: center;
